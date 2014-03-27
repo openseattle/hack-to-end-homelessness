@@ -60,12 +60,12 @@ We sincerely hope that many participants will be inspired by projects or organiz
 
 ## What does it cost and how do I register?
 
-The event costs $100 per participant, or $75 with a discount code. However, no one will be turned away for inability to pay. If you are in need of reduced admission please email contact@hacktoendhomelessness.com.
+The event costs $100 per participant, or $75 with a discount code. However, no one will be turned away for inability to pay. If you are in need of reduced admission please email ethanpg@gmail.com.
 
 Registration will be open by April 1. Check back here shortly for details.
 
 
 ## Where do I go if I still have questions?
 
-Send an email to contact@hacktoendhomelessness.com.
+Send an email to ethanpg@gmail.com.
 
