@@ -283,6 +283,7 @@ input[type=text] {
 
 input[type=text].right {
   float: right;
+  margin-right: 0px;
 }
 
 /* mobile size */
