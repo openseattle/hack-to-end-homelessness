@@ -1,0 +1,3 @@
+baseurl: ""
+markdown: redcarpet
+permalink: pretty

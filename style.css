@@ -56,6 +56,14 @@ h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 
+h1 a {
+  color: #525250;
+}
+
+h1 a:hover {
+  color: #000;
+}
+
 h2 {
   font-family: Lora, Georgia, sans-serif;
   font-style: italic;
@@ -89,6 +97,29 @@ hr {
   border-bottom: none;
   border-left: none;
   margin: 40px auto 60px auto;
+}
+
+ul#main-nav {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  margin: 30px 0px 50px 0px;
+  padding-top: 20px;
+}
+
+ul#main-nav li {
+  display: inline-block;
+  margin: 0px 10px;
+}
+
+ul#main-nav li a {
+  padding: 5px 8px;
+  background-color: #f8f8f8;
+  border-radius: 2px;
+}
+
+ul#main-nav li a:hover {
+  background-color: #e8e8e8;
 }
 
 main .container,
@@ -155,8 +186,35 @@ ul.events li {
 * form
 */
 
-.btn, 
-.button {
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  display: inline-block;
+  outline: none;
+  width: 150px;
+  padding: 8px 10px 6px;
+  vertical-align: top;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  font-weight: 300;
+  height: 45px;
+}
+
+@media only screen and (min-width: 510px){
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  textarea {
+    width: 250px;
+  }
+}
+
+button,
+.button,
+input[type="submit"] {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
   background-color: #D14747;
   color: #fefefa;
@@ -164,23 +222,18 @@ ul.events li {
   border: 1px solid #D14747;
   font-weight: 400;
   cursor: pointer;
-  line-height: 2.9;
-  font-size: 18px;
-  padding: 0px 15px;
-  text-align: center;
-  margin: 0px auto;
-  display: block;
+  font-size: 14px;
+  padding: 0px 10px;
+  height: 45px;
+  line-height: 45px;
 }
 
-a.btn, 
-a.button {
-  padding: 11px 10px 10px 10px;
-}
-
-.btn:hover,
+button:hover,
+button:focus,
 .button:hover,
-.btn:focus,
-.button:focus {
+.button:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus {
   background-color: #CC3333;
   border-color: #CC3333;
   color: #fff;
