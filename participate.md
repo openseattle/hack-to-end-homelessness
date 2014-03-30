@@ -4,7 +4,7 @@ layout: default
 
 ## What is Hack to End Homelessness?
 
-Hack to End Homelessness is a series of events being held in the first week of May 2014 on the causes of and solutions to homelessness. On Thursday, May 1, numerous artists are showing works on the theme of homelessness as part of the First Thursdays Art Walk. On Friday, May 2, we’re proud to host the Seattle premiere of the new documentary "@home," along with a discussion with the film's subject, noted homelessness advocate and social media pioneer Mark Horvath. Finally, on Saturday-Sunday, May 3-4,  there's a two-day "hackathon" where participants will build technology solutions that support people who are homeless and the organizations that serve and advocate for them. This page is specifically addressing the weekend hackathon. See the links above for information on the Art Walk exhibit or the film screening.
+Hack to End Homelessness is a series of events being held in the first week of May 2014 on the causes of and solutions to homelessness. On Thursday, May 1, numerous artists are showing works on the theme of homelessness as part of the First Thursdays Art Walk. On Friday, May 2, we’re proud to host the Seattle premiere of the new documentary "@home," along with a discussion with the film's subject, noted homelessness advocate and social media pioneer Mark Horvath. Finally, on Saturday-Sunday, May 3-4,  there's a two-day "hackathon" where participants will build technology solutions that support people who are homeless and the organizations that serve and advocate for them.
 
 
 ## Why Hack to End Homelessness?
@@ -12,9 +12,10 @@ Hack to End Homelessness is a series of events being held in the first week of M
 The seriousness of homelessness is visible on our streets every day. But the problem goes far beyond what we see on the streets: families with children make up fully half of all homeless people in King County. Likewise, the causes of homelessness go beyond what many people think. Lack of affordable housing and the gap between housing costs and income are significant contributors to homelessness, as are domestic violence, divorce, medical issues, chemical dependency, disabilities and catastrophic events. Despite the progress in our state toward ending homelessness and some nationally recognized innovations in our region, there is much work to be done still. But ending homelessness is possible.
 
 We believe that the technology industry can and should be a leading force for good in our city. Hack to End Homelessness furthers this in three ways:
+
 1. by building solutions to the urgent technology needs of the community.
-2. by educating the tech community on the realities of homelessness.
-3. by forging relationships between the tech community and the homelessness community that will last well beyond the event.
+1. by educating the tech community on the realities of homelessness.
+1. by forging relationships between the tech community and the homelessness community that will last well beyond the event.
 
 
 ## Who should participate in the hackathon?
