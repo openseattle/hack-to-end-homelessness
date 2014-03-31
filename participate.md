@@ -30,7 +30,7 @@ Other popular weekend events, like StartupWeekend or AngelHack, are all about de
 
 ## What specific projects could I work on?
 
-See here for a list of projects [link]. Check back often as we'll be updating the project list right up until the morning of the event.
+[See here for a list of projects]({{ site.baseurl }}/projects). Check back often as we'll be updating the project list right up until the morning of the event.
 
 
 ## Do I need to pick a project before the start of the event?
