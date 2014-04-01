@@ -5,7 +5,7 @@ layout: default
 
 Our partner organizations, which include many of the most impactful homeless service and advocacy groups in Seattle, have each contributed project proposals for technical work that is urgently needed by the community.
 
-The proposal list below is preliminary, and is meant to give a sense of the sort of work that will be done during the Hack to End Homelessness. This list will be update with more projects and more specific details on each project as we get closer to the event.
+The proposal list below is preliminary, and is meant to give a sense of the sort of work that will be done during the Hack to End Homelessness. This list will be updated with more projects and more specific details on each project as we get closer to the event.
 
 
 - The [**Washington Low Income Housing Alliance**](http://wliha.org/) and [**YWCA's Firesteel**](http://firesteelwa.org/) are interested in building an interactive map that demonstrates the local impacts of the [Housing Trust Fund](http://www.commerce.wa.gov/Programs/housing/TrustFund/Pages/default.aspx), an important source of funding for affordable housing across our state.
