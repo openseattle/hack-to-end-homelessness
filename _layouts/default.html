@@ -41,14 +41,25 @@
 
 <footer>
   <div class="container">
-    
+    <p>contact@hacktoendhomelessness.com</p>
   </div>
 </footer>
 
   <script>
-  if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1'){
-    if (location.hostname !== 'www.hacktoendhomelessness.com') location.href = 'http://www.hacktoendhomelessness.com';
+  if (location.hostname === 'codeforseattle.org')
+    location.href = 'http://www.hacktoendhomelessness.com';
   }
+  </script>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49604223-1', 'hacktoendhomelessness.com');
+  ga('send', 'pageview');
+
   </script>
 </body>
 </html>

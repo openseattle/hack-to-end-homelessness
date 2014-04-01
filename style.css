@@ -133,6 +133,7 @@ main .container,
 header .container,
 footer .container {
   background-color: #fff;
+  text-align: center;
 }
 
 header {
