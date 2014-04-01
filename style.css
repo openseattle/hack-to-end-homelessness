@@ -291,6 +291,10 @@ input[type=text].right {
   margin-right: 0px;
 }
 
+#eventbrite {
+  text-align: center;
+}
+
 /* mobile size */
 .container {
   width: 100%;
