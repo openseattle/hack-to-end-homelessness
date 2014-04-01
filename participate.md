@@ -4,65 +4,69 @@ layout: default
 
 ## What is Hack to End Homelessness?
 
-Hack to End Homelessness is a series of events being held in the first week of May 2014 on the causes of and solutions to homelessness. On Thursday, May 1, numerous artists are showing works on the theme of homelessness as part of the First Thursdays Art Walk. On Friday, May 2, we’re proud to host the Seattle premiere of the new documentary "@home," along with a discussion with the film's subject, noted homelessness advocate and social media pioneer Mark Horvath. Finally, on Saturday-Sunday, May 3-4,  there's a two-day "hackathon" where participants will build technology solutions that support people who are homeless and the organizations that serve and advocate for them. This page is specifically addressing the weekend hackathon. See the links above for information on the Art Walk exhibit or the film screening.
+Hack to End Homelessness brings together Seattle's housing advocacy community and service providers with the best minds in technology and innovation. Our goal is to design and build solutions to all forms of homelessness, from the homelessness we see on the streets to the hidden problem of family homelessness.
+
+- **Thursday, May 1, 5:00 pm:** First Thursday ArtWalk in Pioneer Square
+- **Friday, May 2, 7:00 pm:** Seattle premiere screening of @home, which follows the work of e-activist Mark Horvath.
+- **Saturday and Sunday, May 3-4:** Hackathon bringing together technologists and subject matter experts to build solutions to the real problems of homelessness
+- **Sunday, May 4, 6:00 pm:** Capstone presentation event
+
+All events to take place at Impact Hub Seattle in Pioneer Square, 220 2nd Ave S.
 
 
 ## Why Hack to End Homelessness?
 
-The seriousness of homelessness is visible on our streets every day. But the problem goes far beyond what we see on the streets: families with children make up fully half of all homeless people in King County. Likewise, the causes of homelessness go beyond what many people think. Lack of affordable housing and the gap between housing costs and income are significant contributors to homelessness, as are domestic violence, divorce, medical issues, chemical dependency, disabilities and catastrophic events. Despite the progress in our state toward ending homelessness and some nationally recognized innovations in our region, there is much work to be done still. But ending homelessness is possible.
+We believe that the technology industry can and should be a leading force for good in our city. Every member of our community is impacted by the twin issues of homelessness and affordable housing. As Seattle grows, we want to make sure it remains a dynamic, safe, and affordable place for all of us to live. 
 
-We believe that the technology industry can and should be a leading force for good in our city. Hack to End Homelessness furthers this in three ways:
-1. by building solutions to the urgent technology needs of the community.
-2. by educating the tech community on the realities of homelessness.
-3. by forging relationships between the tech community and the homelessness community that will last well beyond the event.
+
+## What projects will be worked on at the hackathon?
+
+Potential projects range from data visualization and infographics, to creating new social networks and crowdfunding platforms, to helping with critical internal IT needs. The projects proposals all come directly from experts at local service providers and advocacy organizations, which ensures that what you work on over the weekend is fulfilling an urgent need of the community. And those experts will be present throughout the course of the weekend working one-one-one with your team.
+
+[See here for a list of projects]({{ site.baseurl }}/projects). Check back often as we'll be updating the project list right up until the morning of the event.
+
+
+## Who is behind this initiative?
+Hack to End Homelessness is an ad hoc project organized by members of Impact Hub Seattle. It has been designed in partnership with the Project on Family Homelessness at Seattle University and in collaboration with over a dozen arts, business, and community organizations.
 
 
 ## Who should participate in the hackathon?
 
-While the event is particularly geared towards technology projects, there is a need for far more than just software developers. After coding, our number-one need is for graphic designers. Writers, journalists, photo and video professionals, students, advocates or any concerned citizens will also be able to contribute and are encouraged to attend.
+Designers, software developers, writers, journalists, photo and video professionals, students, advocates, and concerned citizens who are willing to commit one weekend this year to ending homelessness in our city. 
 
+## What if I can't stay the whole weekend? 
 
-## How does this differ from other hackathons?
-
-Other popular weekend events, like StartupWeekend or AngelHack, are all about developing your own idea. That works well because you're presumably an expert in your own field. But participants in a hackathon for social change are probably not experts in the field. In previous hackathons, that's usually manifested itself in teams building solutions for the wrong problems or solutions that could never be made to work in practice. For this reason, Hack to End Homelessness gives a key role to the people and organizations that work on homelessness every day. Our partner organizations, which include many of the most impactful homeless service and advocacy groups in Seattle, have each contributed project proposals for technical work that is urgently needed by the community. And they'll be on-site throughout the event, working one-on-one with teams to make sure that what is built will actually have an impact beyond the demos on Sunday.
-
-
-## What specific projects could I work on?
-
-See here for a list of projects [link]. Check back often as we'll be updating the project list right up until the morning of the event.
+You can still contribute by attending any one of the events or offering financial support. 
 
 
 ## Do I need to pick a project before the start of the event?
 
-No, you'll pick projects on the morning of the event after hearing from each of the organizations with project proposals.
+Feel free to come with one or more desired projects in mind. We will sort into teams during the weekend, once you have had a chance to meet the mentors.
 
 
-## Can I still work on my own idea or do I have to pick one from the list?
+## Can I come to work on my own idea?
 
-By choosing a project on the curated list you can be certain that your work is providing real value to an organization doing great work to end homelessness every day. But if you have ideas outside our list of projects you're welcome to work on them instead.
+Yes. We urge people to consider choosing a project from the curated list, but we will also have experts on-hand to mentor teams that want to explore in a more open-ended way.
 
 
 ## What should I expect at the event?
 
-We encourage everyone attending the hackathon to also register for the “@home” film premiere on Friday night. In the documentary you'll hear firsthand from homeless individuals around the country about their past, their current struggles and their hopes for the future. After the screening there will be a discussion with nationally known homelessness advocate Mark Horvath, and Mark Putnam, director of the Committee to End Homelessness in King County.
 
-The hackathon itself will begin Saturday morning with a short introduction followed by project proposal presentations from each of our partner organizations. They'll each give a three-minute pitch on who they are, how they work to end homelessness, and what projects they're asking people to help with at the event. Then we'll break up for a period of mingling and team formation. Use this time to talk to presenters who interested you and get to know other participants with complementary skills. Then we'll reconvene to make sure everyone has found a project and a team. The next 24+ hours will be the meat of the hackathon: working intensely in a small group, with the help from technology mentors and experts in the field, to build a solution for your chosen problem. On Sunday afternoon we'll have each team demo their completed work to the public and press.
-
-A full schedule will be up soon. 
+The Hackathon kicks off with the screening of @home on Friday night and a discussion with Mark Horvath of InvisiblePeople.tv. On Saturday morning, you'll hear from project leaders and form teams based on your skills and interests, who you'll work with throughout the weekend. On Sunday afternoon, we'll have each team demo their completed work to the public and press. Check back before the event for a full schedule.
 
 
 ## What happens after the weekend?
 
-The projects are all chosen so that it's possible to have a working and useful solution done by Sunday afternoon. Keep in mind that very few of the organizations involved have any permanent technical staff, so whatever is produced needs to be deployable and maintainable without technical expertise.
+The projects we've curated can be built and deployed in a single weekend. They will be made available for use by any organization or individual that wants to work on homelessness.
 
-We sincerely hope that many participants will be inspired by projects or organizations and will want to form a more ongoing relationship. After the event we'll support any groups who want to continue on their project or become involved in any way with the problem of homelessness.
+What happens after that is up to you. We hope that people will leave the event inspired to continue working together.
 
 
 ## What does it cost and how do I register?
 
-The event costs $100 per participant, or $75 with a discount code. However, no one will be turned away for inability to pay. If you are in need of reduced admission please email contact@hacktoendhomelessness.com.
+The event costs $100 per individual participant or $250 for employees attending as representatives of their company. This fee is necessary to cover the cost of the space and food. However, we will offer scholarships to those who cannot afford the full fee. If you are in need of reduced admission, please email contact@hacktoendhomelessness.com.
 
-Registration will be open by April 1. Check back here shortly for details.
+[Click here to register.](http://www.eventbrite.com/e/hack-to-end-homelessness-seattle-tickets-11125365267)
 
 
 ## Where do I go if I still have questions?
