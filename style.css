@@ -99,6 +99,11 @@ hr {
   margin: 40px auto 60px auto;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 ul#main-nav {
   margin: 0px;
   padding: 0px;
