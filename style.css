@@ -133,6 +133,9 @@ main .container,
 header .container,
 footer .container {
   background-color: #fff;
+}
+
+footer .container {
   text-align: center;
 }
 
