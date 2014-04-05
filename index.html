@@ -6,8 +6,6 @@ layout: default
   <p class="intro-message">Hack to End Homelessness brings together Seattle's housing advocacy community and service providers with the best minds in technology and innovation. Our goal is to design and build solutions to all forms of homelessness, from the homelessness we see on the streets to the hidden problem of family homelessness.</p> 
 
   <p id="eventbrite"><a href="https://www.eventbrite.com/e/hack-to-end-homelessness-seattle-tickets-11125365267?ref=ebtnebtckt" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=11125365267" alt="Eventbrite - Hack to End Homelessness - Seattle" /></a></p>
-
-  
 </div>
 
 <hr>
@@ -22,6 +20,22 @@ layout: default
 
 <hr>
 
+<h2>Recent posts:</h2>
+<div class="posts">
+  {% for post in site.posts limit:5 %}
+    {% if post.published %}
+      <div class="post">
+        <p class="post-date">{{ post.date | date: "%d %B %Y" }} ~ {{ post.author }}</p>
+        <a href="{{ post.url }}" class="{{ post.slug }}">
+          <h3 class="post-title">{{ post.title }}</h3>
+        </a>
+        <div class="post-content">{{ post.excerpt | truncate: 400 }}</div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+<hr>
+
 <h2><a class="twitter-timeline" href="https://twitter.com/hack2end">@hack2end</a> on twitter</h2>
 
 <div style="text-align:center;">
@@ -32,5 +46,15 @@ layout: default
 
 <h2>Partners:</h2>
 <img src="{{site.baseurl}}/img/partners.png">
+<hr>
 
+<h2>Supporters:</h2>
+<p>Thank you to the supporters of Hack to End Homelessness!</p>
+
+<ul>
+  <li></li>
+  <li></li>
+<ul>
+
+<p><a href="https://www.eventbrite.com/e/hack-to-end-homelessness-seattle-tickets-11125365267?ref=ebtnebtckt" target="_blank">Purchase the supporter package</a> to be listed here.</p>
 <hr>
