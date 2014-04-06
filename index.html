@@ -20,6 +20,8 @@ layout: default
 
 <hr>
 
+
+{% comment %}
 <h2>Recent posts:</h2>
 <div class="posts">
   {% for post in site.posts limit:5 %}
@@ -35,6 +37,7 @@ layout: default
   {% endfor %}
 </div>
 <hr>
+{% endcomment %}
 
 <h2><a class="twitter-timeline" href="https://twitter.com/hack2end">@hack2end</a> on twitter</h2>
 
@@ -48,6 +51,7 @@ layout: default
 <img src="{{site.baseurl}}/img/partners.png">
 <hr>
 
+{% comment %}
 <h2>Supporters:</h2>
 <p style="text-align:center;">Thank you to the supporters of Hack to End Homelessness!</p>
 
@@ -58,3 +62,4 @@ layout: default
 
 <p style="text-align:center;"><a href="https://www.eventbrite.com/e/hack-to-end-homelessness-seattle-tickets-11125365267?ref=ebtnebtckt" target="_blank">Purchase the supporter package</a> to be listed here.</p>
 <hr>
+{% endcomment %}
