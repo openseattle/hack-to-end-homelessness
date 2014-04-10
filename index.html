@@ -20,6 +20,8 @@ layout: default
 
 <hr>
 
+
+{% comment %}
 <h2>Recent posts:</h2>
 <div class="posts">
   {% for post in site.posts limit:5 %}
@@ -35,6 +37,7 @@ layout: default
   {% endfor %}
 </div>
 <hr>
+{% endcomment %}
 
 <h2>Partners:</h2>
 <img src="{{site.baseurl}}/img/partners.png">
@@ -44,8 +47,8 @@ layout: default
 <p style="text-align:center;">Thank you to the supporters of Hack to End Homelessness!</p>
 
 <ul>
-  <li></li>
-  <li></li>
+  <li>Dave Nichols</li>
+  <li>Greg Bellinger & guest</li>
 </ul>
 
 <p style="text-align:center;"><a href="https://www.eventbrite.com/e/hack-to-end-homelessness-seattle-tickets-11125365267?ref=ebtnebtckt" target="_blank">Purchase the supporter package</a> to be listed here.</p>

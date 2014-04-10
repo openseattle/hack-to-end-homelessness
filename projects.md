@@ -40,7 +40,7 @@ The [**Committee to End Homelessness in King County**](http://www.cehkc.org/) wa
 [**Sanctuary Art Center**](http://sanctuaryartcenter.org/) wants help setting up an e-commerce site to support their arts work with homeless youth.
 <hr>
 
-<div class="images"><img src="/img/su-pfh.png"></div>
+<div class="images wide"><img src="/img/su-pfh.png"></div>
 
 Seattle University's [**Project on Family Homelessness**](https://www.seattleu.edu/artsci/departments/communication/csc/family-homelessness/) is looking for ways to create an interactive version of its static list of action steps for ending family homelessness.
 <hr>

@@ -323,8 +323,13 @@ input[type=text].right {
 }
 
 .projects img {
-  width: 200px;
+  max-width: 100px;
+  max-height: 100px;
   display: inline-block;
+}
+
+.projects .wide img {
+  max-width: 200px;
 }
 
 /* mobile size */
