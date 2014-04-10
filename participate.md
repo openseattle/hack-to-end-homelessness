@@ -9,7 +9,7 @@ Hack to End Homelessness brings together Seattle's housing advocacy community an
 - **Thursday, May 1, 5:00 pm:** First Thursday ArtWalk in Pioneer Square
 - **Friday, May 2, 7:00 pm:** Seattle premiere screening of @home, which follows the work of e-activist Mark Horvath.
 - **Saturday and Sunday, May 3-4:** Hackathon bringing together technologists and subject matter experts to build solutions to the real problems of homelessness
-- **Sunday, May 4, 6:00 pm:** Capstone presentation event
+- **Sunday, May 4, 5:00 pm:** Capstone presentation event
 
 All events to take place at Impact Hub Seattle in Pioneer Square, 220 2nd Ave S.
 
