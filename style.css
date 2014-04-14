@@ -340,6 +340,14 @@ input[type=text].right {
   border: 3px solid #f2f2f0;
 }
 
+.sponsors {
+  text-align: center;
+}
+
+.sponsors img {
+  width: 250px;
+}
+
 /* mobile size */
 .container {
   width: 100%;
