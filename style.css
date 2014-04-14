@@ -332,6 +332,14 @@ input[type=text].right {
   max-width: 200px;
 }
 
+.about main img {
+  float: left;
+  margin: 7px 15px 15px 0px;
+  width: 100px;
+  height: auto;
+  border: 3px solid #f2f2f0;
+}
+
 /* mobile size */
 .container {
   width: 100%;
