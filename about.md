@@ -1,6 +1,6 @@
 ---
 layout: default
-slug: about
+slug: team
 ---
 
 ## About the organizers
@@ -11,7 +11,7 @@ _Overall Project Manager_
 
 I am a communications strategist with a background in global public affairs with the Department of State. My company, Whoa! Strategies, is based at Impact Hub Seattle in Pioneer Square.
 
-**Why I’m doing this:** I love Seattle and want technologists, startups, and all our citizens to feel at home in it. The future of my city depends on smart urban development, good public policy, and a professional approach to social problems. Here in Pioneer Square, we are surrounded by brilliant technologists and innovative thinkers, as well as compassion-driven organizations that work tirelessly to end homelessness. After learning from those professionals that it is indeed possible to end homelessness and that technology can help, I threw myself into organizing this initiative.
+**Why I’m doing this:** Here in Pioneer Square, we are surrounded by brilliant technologists and innovative thinkers, as well as compassion-driven organizations that work tirelessly to end homelessness. After learning from those professionals that it is indeed possible to end homelessness and that technology can help, I threw myself into organizing this initiative.
 
 ***
 
