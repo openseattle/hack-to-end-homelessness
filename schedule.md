@@ -27,4 +27,4 @@ slug: schedule
 - 12:30​ pm — Lunch
 - 4:00 pm — ​Break
 - 5:00​ pm — ​Public presentations
-- 7:00 pm — Reception
+- 7:00 pm — Wrap-up and celebrate!
