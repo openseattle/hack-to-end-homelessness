@@ -160,7 +160,9 @@ p.intro-message {
   text-align: center;
 }
 
-p.
+p.strong {
+  font-weight: bold
+}
 
 ul.aims {
   text-align: center;
