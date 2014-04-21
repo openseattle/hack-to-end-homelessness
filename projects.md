@@ -10,7 +10,7 @@ The proposal list below is preliminary, and is meant to give a sense of the sort
 <div class="images"><img src="/img/wha.jpg"> <img src="/img/firesteel.jpg"></div>
 
 The [**Washington Low Income Housing Alliance**](http://wliha.org/) and [**YWCA's Firesteel**](http://firesteelwa.org/) are interested in building an interactive map that demonstrates the local impacts of the [Housing Trust Fund](http://www.commerce.wa.gov/Programs/housing/TrustFund/Pages/default.aspx), an important source of funding for affordable housing across our state.
-<ul><li>Skills Needed: Data Analyst, Frontend Web Developmer, Mapping Expert</li></ul>
+<ul><li>Skills Needed: Data Analyst, Frontend Web Developer, Mapping Expert</li></ul>
 <hr>
 
 Mark Horvath, creator of [**InvisiblePeople.tv**](http://invisiblepeople.tv) and the subject of the May 2<sup>nd</sup> film screening, wants help building a social network for people who are homeless, with a focus on supporting low-end mobile phones and SMS.
@@ -32,6 +32,7 @@ Both the [**Housing Development Consortium**](http://www.housingconsortium.org/)
 <div class="images"><img src="/img/rc.jpg"></div>
 
 [**Real Change**](http://www.realchangenews.org/) is interested in better mobile communication/advocacy and bookkeeping tools for its newspaper vendors, and is looking for help with internal database and document management systems, as well as visualization of data on the affordable housing gap and related causes of homelessness.
+<ul><li>Skills Needed: Public Relations, Marketing</li></ul>
 <hr>
 
 <div class="images"><img src="/img/cehkc.jpg"></div>
