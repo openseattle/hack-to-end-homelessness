@@ -26,7 +26,7 @@ Mark Horvath, creator of [**InvisiblePeople.tv**](http://invisiblepeople.tv) and
 <div class="images"><img src="/img/hdc.gif"> <img src="/img/cls.jpg"></div>
 
 Both the [**Housing Development Consortium**](http://www.housingconsortium.org/) and [**Columbia Legal Services**](http://columbialegal.org) have a number of ideas for visualizing the economics of housing and poverty and the data on the 30,000 schoolchildren who are homeless in this state, as well as for better outreach and advocacy tools.
-<ul><li>Skills Needed: Data Analyst, Frontend Web Developmer, Mapping Expert</li></ul>
+<ul><li>Skills Needed: Data Analyst, Frontend Web Developer, Mapping Expert</li></ul>
 <hr>
 
 <div class="images"><img src="/img/rc.jpg"></div>
@@ -38,7 +38,7 @@ Both the [**Housing Development Consortium**](http://www.housingconsortium.org/)
 <div class="images"><img src="/img/cehkc.jpg"></div>
 
 The [**Committee to End Homelessness in King County**](http://www.cehkc.org/) wants help visualizing changes in the homeless population and housing inventory over time and across localities.
-<ul><li>Skills Needed: Data Analyst, Frontend Web Developmer, Mapping Expert</li></ul>
+<ul><li>Skills Needed: Data Analyst, Frontend Web Developer, Mapping Expert</li></ul>
 <hr>
 
 <div class="images"><img src="/img/sac.jpg"></div>
