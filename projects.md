@@ -5,7 +5,10 @@ slug: projects
 
 Our partner organizations, which include many of the most impactful homeless service and advocacy groups in Seattle, have each contributed project proposals for technical work that is urgently needed by the community.
 
-The proposal list below is preliminary, and is meant to give a sense of the sort of work that will be done during the Hack to End Homelessness. This list will be updated with more projects and more specific details on each project as we get closer to the event.
+These are just some of the projects we'll be working on over the course of the weekend. Other needs our community partners have raised include: 
+<ul><li>Creative approaches to storytelling about homelessness</li>
+<li>Innovations in fundraising for smaller initiatives</li
+<li>Social media, art, and other campaigns to raise awareness</li></ul>
 
 <div class="images"><img src="/img/wha.jpg"> <img src="/img/firesteel.jpg"></div>
 
