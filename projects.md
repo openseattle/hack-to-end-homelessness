@@ -9,6 +9,7 @@ These are just some of the projects we'll be working on over the course of the w
 <ul><li>Creative approaches to storytelling about homelessness</li>
 <li>Innovations in fundraising for smaller initiatives</li>
 <li>Social media, art, and other campaigns to raise awareness</li></ul>
+<hr>
 
 <div class="images"><img src="/img/wha.jpg"> <img src="/img/firesteel.jpg"></div>
 
