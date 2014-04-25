@@ -88,7 +88,7 @@ main p {
 
 small {
   font-weight: 300;
-  color: #999;
+  text-align: center;
 }
 
 hr {
@@ -158,6 +158,10 @@ div.site-description {
 p.intro-message {
   font-size: 21px;
   text-align: center;
+}
+
+p.strong {
+  font-weight: bold
 }
 
 ul.aims {
@@ -317,18 +321,18 @@ input[type=text].right {
   margin-bottom: 10px;
 }
 
-.projects .images {
+.projects main .images {
   text-align: center;
   margin-bottom: 15px;
 }
 
-.projects img {
+.projects main img {
   max-width: 100px;
   max-height: 100px;
   display: inline-block;
 }
 
-.projects .wide img {
+.projects main .wide img {
   max-width: 200px;
 }
 

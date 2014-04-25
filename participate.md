@@ -13,6 +13,14 @@ Hack to End Homelessness brings together Seattle's housing advocacy community an
 
 All events to take place at Impact Hub Seattle in Pioneer Square, 220 2nd Ave S.
 
+## Why does it cost $100 to participate?
+
+We are committed to making it possible for anyone to attend this event who wants to hack with us! The $100 reflects a fraction of the costs, most of which have been covered by the organizing team. We set this price based on the estimated cost of the space and 7 meals per participant. 
+
+Thanks to many generous donors, we are able to offer scholarships to those in need, resulting in a functioning pay-what-you-can system. If you or anyone you know would like to participate but cannot afford the registration fees, please drop us a line at contact@hacktoendhomelessness.com. We promise a speedy response. 
+
+[Click here to register.](http://www.eventbrite.com/e/hack-to-end-homelessness-seattle-tickets-11125365267)
+
 
 ## Why Hack to End Homelessness?
 
@@ -60,13 +68,6 @@ The Hackathon kicks off with the screening of @home on Friday night and a discus
 The projects we've curated can be built and deployed in a single weekend. They will be made available for use by any organization or individual that wants to work on homelessness.
 
 What happens after that is up to you. We hope that people will leave the event inspired to continue working together.
-
-
-## What does it cost and how do I register?
-
-The event costs $100 per individual participant or $250 for employees attending as representatives of their company. This fee is necessary to cover the cost of the space and food. However, we will offer scholarships to those who cannot afford the full fee. If you are in need of reduced admission, please email contact@hacktoendhomelessness.com.
-
-[Click here to register.](http://www.eventbrite.com/e/hack-to-end-homelessness-seattle-tickets-11125365267)
 
 
 ## Where do I go if I still have questions?
