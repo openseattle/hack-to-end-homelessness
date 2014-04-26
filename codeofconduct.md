@@ -1,3 +1,8 @@
+---
+layout: default
+slug: codeofconduct
+---
+
 ## Code of Conduct for the Hack to End Homelessness
 
 This hackathon is a community event intended for innovation, collaboration, and engagement in the community.
