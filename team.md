@@ -9,7 +9,7 @@ slug: team
 ### Candace Faber
 _Overall Project Manager_
 
-I am a communications strategist with a background in global public affairs with the Department of State. My company, Whoa! Strategies, is based at Impact Hub Seattle in Pioneer Square.
+I am a communications strategist with a background in global public affairs with the Department of State. My company, Whoa! Strategies, which is the organizing entity for this project, is based at Impact Hub Seattle in Pioneer Square.
 
 **Why I’m doing this:** Here in Pioneer Square, we are surrounded by brilliant technologists and innovative thinkers, as well as compassion-driven organizations that work tirelessly to end homelessness. After learning from those professionals that it is indeed possible to end homelessness and that technology can help, I threw myself into organizing this initiative.
 
