@@ -5,7 +5,7 @@ slug: data
 
 ## Datasets for Hackathon
 
-[Housing Trust Fund dataset]({{site.baseurl}}/data/DR-106-Final-Data-4-14-SH.XLSX")
+Housing Trust Fund [dataset]({{site.baseurl}}/data/DR-106-Final-Data-4-14-SH.XLSX) provided by Dept of Commerce via the Washington Low Income Housing Alliance.
 
 Washington State youth homelessness [data](http://www.k12.wa.us/HomelessEd/Data.aspx) and [report](http://www.k12.wa.us/communications/PressReleases2014/HomelessStudents.aspx) from OSPI, by year and school district.
 
@@ -20,4 +20,3 @@ Washington Low-Income Housing Alliance's 2013 [Affordable Housing Report](http:/
 National Low Income Housing Coalition [2014 Out of Reach Report](http://nlihc.org/oor/2014/WA) for Washington state. Data from 2005 onward and for other states are also [available](http://nlihc.org/oor/).
 
 National Housing Conference's [Paycheck-to-Paycheck Database](http://www.nhc.org/chp/p2p/) for relating rental costs to average wages in various occupations.
-
