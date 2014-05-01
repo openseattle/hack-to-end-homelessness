@@ -25,14 +25,14 @@ The Housing Development Consortium of Seattle-King County has several datasets t
 
  * [occupational-employment-wage-data-2012.xlsx]({{site.baseurl}}/data/occupational-employment-wage-data-2012.xlsx)
 
- * [2012-HUD-Income-and-Aff-Hsg-Table(AMI).pdf]({{site.baseurl}}/data/2012-HUD-Income-and-Aff-Hsg-Table(AMI).pdf)
+ * [2012-HUD-Income-and-Aff-Hsg-Table-AMI.pdf]({{site.baseurl}}/data/2012-HUD-Income-and-Aff-Hsg-Table-AMI.pdf)
 
- * [ACS_12_5YR_B25064(Median_Gross_Rent).pdf]({{site.baseurl}}/data/ACS_12_5YR_B25064(Median_Gross_Rent).pdf)
+ * [ACS-12-5YR-B25064-Median-Gross-Rent.pdf]({{site.baseurl}}/data/ACS-12-5YR-B25064-Median-Gross-Rent.pdf)
 
- * [ACS_12_5YR_B25068(Bedrooms_by_Gross_Rent).pdf]({{site.baseurl}}/data/ACS_12_5YR_B25068(Bedrooms_by_Gross_Rent).pdf)
+ * [ACS-12-5YR-B25068-Bedrooms-by-Gross-Rent.pdf]({{site.baseurl}}/data/ACS-12-5YR-B25068-Bedrooms-by-Gross-Rent.pdf)
 
- * [ACS_12_5YR_B25105(Median_Monthly_Housing_Costs_Owner).pdf]({{site.baseurl}}/data/ACS_12_5YR_B25105(Median_Monthly_Housing_Costs_Owner).pdf)
+ * [ACS-12-5YR-B25105-Median-Monthly-Housing-Costs-Owner.pdf]({{site.baseurl}}/data/ACS-12-5YR-B25105-Median-Monthly-Housing-Costs-Owner.pdf)
 
- * [ACS_12_5YR_S1903(Median_Income_Past_12_Months).pdf]({{site.baseurl}}/data/ACS_12_5YR_S1903(Median_Income_Past_12_Months).pdf)
+ * [ACS-12-5YR-S19030-Median-Income-Past-12-Months.pdf]({{site.baseurl}}/data/ACS-12-5YR-S19030-Median-Income-Past-12-Months.pdf)
 
  The American Community Survey from the US Census Bureau has extensive data that could be relevant to several projects. Interactive searches can be done from [American FactFinder](http://factfinder2.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t) and bulk downloads can be found [here](https://www.census.gov/acs/www/data_documentation/data_via_ftp/). These datasets can be very unwieldy if you've not worked with them before, so please talk to Ethan at the hackathon for assistance extracting the data you are looking for.
