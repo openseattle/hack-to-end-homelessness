@@ -352,6 +352,21 @@ input[type=text].right {
   width: 250px;
 }
 
+#supporter-list {
+  text-align: center;
+  margin: 0px 0px 20px 0px;
+  padding: 0px;
+}
+
+#supporter-list li {
+  list-style-type: none;
+  background-color: #f6f6f6;
+  padding: 10px 0px;
+  margin-bottom: 3px;
+  width: 50%;
+  margin: 0px auto 3px auto;
+}
+
 /* mobile size */
 .container {
   width: 100%;
