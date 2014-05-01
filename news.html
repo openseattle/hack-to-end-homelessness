@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h2>Recent posts:</h2>
+<div class="posts">
+  {% for post in site.posts limit:5 %}
+    {% if post.published %}
+      <div class="post">
+        <p class="post-date">{{ post.date | date: "%d %B %Y" }} ~ {{ post.author }}</p>
+        <a href="{{ post.url }}" class="{{ post.slug }}">
+          <h3 class="post-title">{{ post.title }}</h3>
+        </a>
+        <div class="post-content">{{ post.excerpt | truncate: 400 }}</div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+<hr>
