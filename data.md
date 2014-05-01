@@ -20,3 +20,19 @@ Washington Low-Income Housing Alliance's 2013 [Affordable Housing Report](http:/
 National Low Income Housing Coalition [2014 Out of Reach Report](http://nlihc.org/oor/2014/WA) for Washington state. Data from 2005 onward and for other states are also [available](http://nlihc.org/oor/).
 
 National Housing Conference's [Paycheck-to-Paycheck Database](http://www.nhc.org/chp/p2p/) for relating rental costs to average wages in various occupations.
+
+The Housing Development Consortium of Seattle-King County has several datasets to help develop a tool that allows users to explore the affordability and richness of opportunity in area neighborhoods:
+
+ * [occupational-employment-wage-data-2012.xlsx]({{site.baseurl}}/data/occupational-employment-wage-data-2012.xlsx)
+
+ * [2012-HUD-Income-and-Aff-Hsg-Table-AMI.pdf]({{site.baseurl}}/data/2012-HUD-Income-and-Aff-Hsg-Table-AMI.pdf)
+
+ * [ACS-12-5YR-B25064-Median-Gross-Rent.pdf]({{site.baseurl}}/data/ACS-12-5YR-B25064-Median-Gross-Rent.pdf)
+
+ * [ACS-12-5YR-B25068-Bedrooms-by-Gross-Rent.pdf]({{site.baseurl}}/data/ACS-12-5YR-B25068-Bedrooms-by-Gross-Rent.pdf)
+
+ * [ACS-12-5YR-B25105-Median-Monthly-Housing-Costs-Owner.pdf]({{site.baseurl}}/data/ACS-12-5YR-B25105-Median-Monthly-Housing-Costs-Owner.pdf)
+
+ * [ACS-12-5YR-S19030-Median-Income-Past-12-Months.pdf]({{site.baseurl}}/data/ACS-12-5YR-S19030-Median-Income-Past-12-Months.pdf)
+
+The American Community Survey from the US Census Bureau has extensive data that could be relevant to several projects. Interactive searches can be done from [American FactFinder](http://factfinder2.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t) and bulk downloads can be found [here](https://www.census.gov/acs/www/data_documentation/data_via_ftp/). These datasets can be very unwieldy if you've not worked with them before, so please talk to Ethan at the hackathon for assistance extracting the data you are looking for.

@@ -41,7 +41,7 @@ layout: default
 
 <h2>Recent posts:</h2>
 <div class="posts">
-  {% for post in site.posts limit:1 %}
+  {% for post in site.posts limit:3 %}
     {% if post.published %}
       <div class="post">
         <p class="post-date">{{ post.date | date: "%d %B %Y" }} ~ {{ post.author }}</p>
@@ -79,6 +79,7 @@ layout: default
   <li>Zakaria Zajac</li>
   <li>Chad Johansen</li>
   <li>Bhushan Mehendale</li>
+  <li>Hilary Lovelace</li>
 </ul>
 <p style="text-align:center;"><a href="https://www.eventbrite.com/e/hack-to-end-homelessness-seattle-tickets-11125365267?ref=ebtnebtckt" target="_blank">Purchase the supporter package</a> to be listed here.</p>
 <hr>
