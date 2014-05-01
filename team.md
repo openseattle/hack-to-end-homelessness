@@ -54,3 +54,10 @@ I am an independent web developer and system administrator with an extensive bac
 **Why I’m doing this:** I believe having a home is the foundation for a strong and just society. I'm involved with this initiative because I think the data we've gathered, powerfully communicated, can help motivate our societal will towards building solutions to homelessness. Yes, homelessness can, for the most part, be solved.
 
 ***
+
+![Sol Villareal](/img/team/sol.jpg)
+### Sol Villareal
+_Hackathon Emcee_
+
+
+***
