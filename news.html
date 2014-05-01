@@ -4,7 +4,7 @@ layout: default
 
 <h2>Recent posts:</h2>
 <div class="posts">
-  {% for post in site.posts limit:5 %}
+  {% for post in site.posts %}
     {% if post.published %}
       <div class="post">
         <p class="post-date">{{ post.date | date: "%d %B %Y" }} ~ {{ post.author }}</p>
