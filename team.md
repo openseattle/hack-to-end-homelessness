@@ -55,9 +55,12 @@ I am an independent web developer and system administrator with an extensive bac
 
 ***
 
-![Sol Villareal](/img/team/sol.jpg)
-### Sol Villareal
+![Sol Villareral](/img/team/sol.jpg)
+### Sol Villarreal
 _Hackathon Emcee_
 
+I've always loved talking to people--from walking around my neighborhood as a kid selling candy for fundraisers to giving my third Ignite talk earlier this year--and I've been lucky enough to get paid to do what I love over the course of my career in sales, political organizing, and local government.
+
+**Why I'm doing this:** I'm a big believer in the benefits of getting more Seattle technologists involved in public policy, and I think the Hack to End Homelessness model is a great way to make meaningful progress on that front.
 
 ***
