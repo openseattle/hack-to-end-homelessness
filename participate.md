@@ -17,7 +17,7 @@ All events to take place at Impact Hub Seattle in Pioneer Square, 220 2nd Ave S.
 
 We are committed to making it possible for anyone to attend this event who wants to hack with us! The $100 reflects a fraction of the costs, most of which have been covered by the organizing team. We set this price based on the estimated cost of the space and 7 meals per participant. 
 
-Thanks to many generous donors, we are able to offer scholarships to those in need, resulting in a functioning pay-what-you-can system. If you or anyone you know would like to participate but cannot afford the registration fees, please drop us a line at contact@hacktoendhomelessness.com. We promise a speedy response. 
+Thanks to many generous donors, we're able to offer discounted tickets through a pay-what-you-can system. Discounted tickets will be available until noon on Friday May 2nd.
 
 [Click here to register.](http://www.eventbrite.com/e/hack-to-end-homelessness-seattle-tickets-11125365267)
 
