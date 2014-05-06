@@ -5,9 +5,6 @@ layout: default
 {% for project in site.data.projects %}
 <div id="project-{{ project.id }}" class="project">
   <h3 class="team-name">{{ project.team-name }}</h3>
-  {% for sponsor in project.sponsors %}
-  <h4 class="sponsor">{{ sponsor }}</h4>
-  {% endfor %}
   {% if project.slogan %}
   <div class="slogan">"{{ project.slogan }}"</div>
   {% endif %}
