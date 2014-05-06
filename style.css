@@ -76,6 +76,15 @@ h2 {
   text-align: center;
 }
 
+.slogan {
+  font-family: Lora, Georgia, sans-serif;
+  font-style: italic;
+  color: #00747A;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 1.25em;
+}
+
 p {
   font-size: 18px;
   line-height: 1.5;

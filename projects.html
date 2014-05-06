@@ -4,10 +4,13 @@ layout: default
 
 {% for project in site.data.projects %}
 <div id="project-{{ project.id }}" class="project">
+  <h3 class="team-name">{{ project.team-name }}</h3>
   {% for sponsor in project.sponsors %}
-  <h3 class="sponsor">{{ sponsor }}</h3>
+  <h4 class="sponsor">{{ sponsor }}</h4>
   {% endfor %}
-  <h4 class="team-name">{{ project.team-name }}</h4>
+  {% if project.slogan %}
+  <div class="slogan">"{{ project.slogan }}"</div>
+  {% endif %}
   <a href="{% if project.live-link %}{{ project.live-link }}{% else %}/presentations/{{ project.id }}.pdf{% endif %}"><img class="screenshot" src="/img/projects/{{ project.id }}.jpg" /></a>
   <div class="links">
     <a class="live-link" href="{{ project.live-link }}">{{ project.live-link-text }}</a>

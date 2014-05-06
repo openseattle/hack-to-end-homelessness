@@ -10,8 +10,7 @@
     - Zach Holker (Seattle University transportation coordinator)
     - Dawn Stenberg (Seattle’s Union Gospel Mission)
   slogan: Let them eat cake!
-  description: Building Changes is introducing an innovative approach to prevent family homelessness through a strategy called Diversion. Diversion means keeping families from ever entering the homeless service system. Families get exactly the kind of flexible, short-term they need so housing resources are freed up for those who need it most. Hack 2 End participants worked together to create a beautiful and informative infographic to be used as a tool for communicating the benefit of Diversion to Funders and Service Providers in King County and around Washington State.
-
+  description: "Team TLA supported Building Changes, which requested help to communicate the benefits of their innovative new strategy for homelessness prevention, called Diversion. Diversion means keeping families from ever entering the homeless service system by providing flexible, short-term resources. Hack 2 End participants worked together to create a beautiful and informative infographic that will be used to communicate the benefits of the program to funders and service providers throughout Washington State."
 
 -
   id: maptastics
@@ -38,7 +37,7 @@
     - Kris Wittenberger
     - Sandi Olson
   slogan: Hacking the conversation
-  description: Four different groups came to the Hackathon with similar needs - they have multiple data sources that they know could tell a story, and they need to be able to tell legislators, community members and the media that story. Team Maptastics gathered a brilliant collection of data and development professionals to churn through the many data sources to create a map that tells the story of who&mdash;in their county, legislative district, or school district&mdash;is experiencing challenges with affordable housing.
+  description: "The Maptastics collaborated to support four different non-profit organizations. All four partners needed help to extract stories from available data and tell those stories to legislators, media, and the community. This team gathered data and development professionals to churn through available data sources, creating a series of maps that show where people have the hardest time finding affordable housing. The sponsors will use these visualizations to advocate for affordable housing with legislators and educate the general public."
 
 -
   id: haystack
@@ -51,7 +50,7 @@
     - Lyle Hazle (ROOTS)
     - Andrew Hautau (Bubblr)
     - Natasha Rosenblatt
-  description: The Committee to End Homelessness wanted to utilize data from other metro areas to better understand our context – especially the need in our community (number of people homeless) and our response (number and type of housing units/beds). Yet with hundreds of data points and hundreds of jurisdictions nationally, analysis and simplification of the results was needed. We analyzed data from 25 major metro areas and developed a web-based map and charts. The map allows a user to review data over 7 years and across multiple data points (number homeless, number of shelter beds, etc) and compare cities, apples to apples, by using per capita data.
+  description: "The Haystack worked with Committee to End Homelessness--King County to visualize how Seattle stacks up against other metro areas in the United States. They analyzed data from 25 major cities and developed a dynamic, web-based site that summarizes data over 7 years and across multiple data points. This allows users to compare cities “apples to apples” using per-capita data, showing each community’s need and the relative scale of its response."
   live-link: http://haystack-hack2end.herokuapp.com/
   live-link-text: See it live!
 
@@ -67,7 +66,7 @@
     - Zhia Chong (@zhiahwa)
     - Erik Molano (@erikmolano)
   slogan: A home online for those without one.
-  description: We Are Visible is a peer network for the homeless community to help each other through social media and online peer-to-peer support. Invisible Founder Mark Horvath had wanted to create such a network for over four years, but it wasn’t until Hack to End Homelessness that all of the elements came together to get the project started.
+  description: "We Are Visible is a peer network for the homeless community to help each other through social media and online peer-to-peer support. InvisiblePeople.tv founder Mark Horvath had wanted to create such a network for over four years, but it wasn’t until Hack to End Homelessness that all of the elements came together to get the project started. The web-based application avoids the need for a credit card that most app stores require. By the end of the weekend, We Are Visible had its first user."
   live-link: http://wav.dotcreate.co/
   live-link-text: See it live!
 
@@ -82,7 +81,7 @@
     - Lance Lobuzzetta (Lead Designer and Print Instructor at Sanctuary Art Center)
     - Nazar Trilisky (Software Development Engineer at F5)
     - Dan Ojalvo (Software Engineer at F5)
-  description: Creating an e-commerce website to sell art and apparel. CMDPRINT.com is now an online store selling apparel by youth designers from Sanctuary Screenprinting and partner business Efflux Creations. The proceeds from online sales will go to benefit the ongoing efforts of the Sanctuary Art Center's employment internship program and the CMD+P retail/gallery space located in Pioneer Square at 201 Yesler Way Suite 200.
+  description: "The SAC-ky Hackers created an e-commerce site, CMD+PRINT, to support the Sanctuary Art Center (SAC). SAC serves homeless teens and young adults with arts programs, and uses revenues from screenprinted t-shirt and art sales to support its employment internship program and retail/gallery space. Until now, sales have been limited to in-store and event sales. With CMDPRINT.com live, Sanctuary Art Center can scale up its sales and generate additional support for its employment internship program and retail/gallery space, located in Pioneer Square."
   live-link: http://cmdprint.com/
   live-link-text: See it live!
 
@@ -92,7 +91,7 @@
   sponsors:
     - Seattle University
     - Union Gospel Mission
-  slogan: No need forgotten.
+  slogan: No need forgotten
   team-members:
     - Graham Pruss (Seattle University)
     - Jeff Lilley (Seattle’s Union Gospel Mission)
@@ -101,7 +100,7 @@
     - Katie Pyontek (Avvo)
     - Rex St. John (Mashery)
     - Nevan Wichers (Seattle University student)
-  description: We don’t believe needs should be forgotten – we developed We Count to keep to track of the needs of people living on the street. Service volunteers change daily and organizations need a consistent process to organize work and provision. We Count offers the ability to document, track and manage provision towards the specific needs of individuals, collected during street outreach. We Count provides a platform for multiple service agencies to document their work and empowers new volunteers to become immediate assets.
+  description: "Team We Count developed an app to keep track of the needs of people living on the street. The app allows service providers like the Union Gospel Mission to meet those needs better and more efficiently while also collecting valuable data about those living on the streets. It helps service volunteers--who change daily--to conduct better street outreach, while offering service providers the capacity to document, track, and manage provision of outreach. The We Count platform will allow multiple service agencies to document their work and empower new volunteers to become immediate assets."
 
 -
   id: cre
@@ -113,7 +112,7 @@
     - Lauren McGowan (United way of King County)
     - Cesar Romero (Software Development Engineer at Amazon.com)
     - Maryclare Griffin (PhD Student in Statistics/University of Washington)
-  description: On April 29 more than 600 volunteers and nearly 100 service providers came together at CenturyLink Field’s East Hall to help 1,500 people experiencing homelessness access resources. 850 of our guests completed intake forms. Our team analyzed the data from the event.
+  description: "Team Community Resource Exchange cleaned, sorted, and analyzed a wealth of data collected just the week before at the annual United Way Community Resource Exchange. At that event, 850 people experiencing homelessness completed intake forms that described their location, the reasons they became homeless, and the reasons they were not living in shelters. This team not only turned this data into communicable graphs and charts, they helped United Way understand how to improve future data collection to reduce noise and increase usability."
 
 -
   id: ncso
@@ -122,12 +121,12 @@
     - United Way of King County
     - Church Council of Greater Seattle
     - Seattle University School of Theology & Ministry
-  slogan: Harnessing the collective power of the faith community to help end homelessness.
+  slogan: Harnessing the collective power of the faith community to help end homelessness
   team-members:
     - Lauren McGowan, United way of King County
     - Lisa Gustaveson, Seattle University School of Theology
     - Seth Vincent
-  description: Tonight we will have too many kids without a safe place to rest their head, do their homework, eat a hot meal, or call home.  Homelessness is a crisis for these families and is unacceptable in a community like ours. Our shelters are full, poverty is growing, and affordable housing is scarce. While we can’t solve all of these problems tonight – we believe we can and must take action to make sure no child sleeps on the streets of King County. That’s why Church Council of Greater Seattle, Seattle University School of Theology and Ministry and United Way of King County have come together to support the No Child Sleeps Outside in King County initiative.
+  description: "Team No Child Sleeps Outside supported a collaborative effort among faith-based organizations to ensure that all children in King County have a safe, stable place to sleep. The team built a new Wordpress website that better communicates its mission, has a clear call to action, and can be kept up-to-date by permanent staff."
   live-link: http://www.nochildsleepsoutside.com
   live-link-text: See it live!
 
@@ -143,7 +142,7 @@
     - Danny Pham (Saltbox)
     - Maryclare Griffin (University of Washington)
     - Viral Mehta (​Microsoft)
-  description: "YouthCare's James W. Ray Orion Center offers a wealth of services to Seattle's homeless young people, including low-barrier services like meals and drop-in hours, during which young people ages 13-22 can access basic needs and connect with our staff to talk about goals and connecting to deeper services like case management, shelter, housing, education, and employment training. We collect basic information about who is coming into the building for services, which services they are accessing, and how often the access the services. But we aren't able to analyze the data in the format it's collected in. This project had two goals: to develop macros allowing us to analyze the current spreadsheet data, and to develop a new way to collect data that made future analysis easier."
+  description: "The YouthCare Data Analysis project helped YouthCare, which runs Seattle’s James W. Ray Orion Center and other shelters and services, better use technology to meet the needs of homeless youth. Young people ages 13-22 drop in to the Orion Center to access basic needs, connect with staff, and receive deeper services like case management, shelter, housing, education, and employment training. YouthCare had been collecting basic information about their clients during intake, but they were not able to analyze the data in its current format. The team not only developed macros allowing YouthCare to analyze its current spreadsheet data, but it developed a new interface for data collection that will make future analysis much easier."
 
 
 
