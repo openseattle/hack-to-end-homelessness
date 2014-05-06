@@ -38,6 +38,8 @@
     - Sandi Olson
   slogan: Hacking the conversation
   description: "The Maptastics collaborated to support four different non-profit organizations. All four partners needed help to extract stories from available data and tell those stories to legislators, media, and the community. This team gathered data and development professionals to churn through available data sources, creating a series of maps that show where people have the hardest time finding affordable housing. The sponsors will use these visualizations to advocate for affordable housing with legislators and educate the general public."
+  live-link: http://maptastics.herokuapp.com/
+  live-link-text: See it live!
 
 -
   id: haystack
