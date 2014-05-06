@@ -205,6 +205,19 @@ ul.events li {
   border: solid;
 }
 
+.project .links {
+  text-align: center;
+}
+
+.project .links a {
+  display: inline-block;
+  margin-right: 30px;
+}
+
+
+
+
+
 /*
 * form
 */
