@@ -5,7 +5,7 @@ published: true
 layout: post
 ---
 
-Thanks again to all our amazing participants for the inspiring work you did this weekend. We are working to get <i>all</i> the projects showcased on the home page, but in the meantime, we thought you would enjoy seeing media coverage from this weekend. It's not all 100 percent accurate, but hey - together, we got the word out about homelessness, inspired people to take action, and built some really cool stuff. 
+Thanks again to all our amazing participants for the inspiring work you did this weekend! We are working to get <i>all</i> the projects showcased on the home page, but in the meantime, we thought you would enjoy seeing a roundup of our media coverage. It's not all 100 percent accurate, but hey - together, we learned a lot about homelessness in Seattle, inspired people to take action, and built some really cool stuff, and we think that came through in the coverage. Congratulations again! 
 
 <strong>KOMO 4 News</strong> (Joel Moreno): <a href="http://www.komonews.com/news/local/Hackers-brainstorm-new-technologies-to-help-Seattles-homeless-257896911.html?tab=video&c=y">Hackers brainstorm new technologies to help Seattle's homeless</a><p>
 <strong>Geekwire</strong>  (Taylor Soper): <a href="http://www.geekwire.com/2014/hack-end-homelessness-recap-maps-social-networks-startup-ideas/">Hack to End Homelessness: Maps, social networks, and other ideas to help Seattle's homeless</a><p>
