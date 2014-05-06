@@ -1,11 +1,149 @@
-- team-name: TLA
-  sponsor: Building Changes
+-
+  id: TLA
+  team-name: TLA
+  sponsors: 
+    - Building Changes
   team-members:
-    - Christena Coutsoubos (Building Changes)
-    - Erik Molano
-    - Marina Son
-    - Zach Holker
-    - Dawn Stenberg
-  description: Building Changes wanted help telling the story of their work in a more compelling way for new donors and others who are unfamiliar with their work. TLA spent the weekend designing a clearer explanation of what diversion is in the context of homelessness and a new infographic, and redesigning one of the organization’s existing fundraising brochures.
+    - Christena Coutsoubos (Buliding Changes Director)
+    - Erik Molano (Microsoft designer)
+    - Marina Son (UX research student)
+    - Zach Holker (Seattle University transportation coordinator)
+    - Dawn Stenberg (Seattle’s Union Gospel Mission)
+  slogan: Let them eat cake!
+  description: Building Changes is introducing an innovative approach to prevent family homelessness through a strategy called Diversion. Diversion means keeping families from ever entering the homeless service system. Families get exactly the kind of flexible, short-term they need so housing resources are freed up for those who need it most. Hack 2 End participants worked together to create a beautiful and informative infographic to be used as a tool for communicating the benefit of Diversion to Funders and Service Providers in King County and around Washington State.
+
+
+-
+  id: maptastics
+  team-name: The Maptastics
+  sponsors:
+    - Columbia Legal Services
+    - Housing Development Consortium
+    - Washington Low Income Housing Alliance
+    - YWCA/Firesteel
+  team-members:
+    - Stephanie Velasco (Housing Development Consortium)
+    - Erin Murphy (YWCA/Firesteel)
+    - Joaquin Uy (Low Income Housing Alliance)
+    - Katara Jordan (Columbia Legal Services)
+    - Ben Miksch
+    - Hilary Lovelace
+    - Nikhil Sarwate
+    - Ronald Ning
+    - Joneil Custodio
+    - Samira Irani
+    - McKenna Haley
+    - Amy Hua
+    - Joshua Gerrish
+    - Kris Wittenberger
+    - Sandi Olson
+  slogan: Hacking the conversation
+  description: Four different groups came to the Hackathon with similar needs - they have multiple data sources that they know could tell a story, and they need to be able to tell legislators, community members and the media that story. Team Maptastics gathered a brilliant collection of data and development professionals to churn through the many data sources to create a map that tells the story of who&mdash;in their county, legislative district, or school district&mdash;is experiencing challenges with affordable housing.
+
+-
+  id: haystack
+  team-name: The Haystack
+  sponsors:
+    - Committee to End Homelessness
+  team-members:
+    - Mark Putnam (Committee to End Homelessness)
+    - Anand Balasubramanian (Committee to End Homelessness)
+    - Lyle Hazle (ROOTS)
+    - Andrew Hautau (Bubblr)
+    - Natasha Rosenblatt
+  description: The Committee to End Homelessness wanted to utilize data from other metro areas to better understand our context – especially the need in our community (number of people homeless) and our response (number and type of housing units/beds). Yet with hundreds of data points and hundreds of jurisdictions nationally, analysis and simplification of the results was needed. We analyzed data from 25 major metro areas and developed a web-based map and charts. The map allows a user to review data over 7 years and across multiple data points (number homeless, number of shelter beds, etc) and compare cities, apples to apples, by using per capita data.
+  live-link: http://haystack-hack2end.herokuapp.com/
+  live-link-text: See it live!
+
+-
+  id: we-are-visible
+  team-name: We Are Visible
+  sponsors:
+    - Invisible People
+  team-members:
+    - Mark Horvath (@hardlynormal)
+    - Stein Setvik (@setvik)
+    - Whitney Rose (@roseaboveit)
+    - Zhia Chong (@zhiahwa)
+    - Erik Molano (@erikmolano)
+  slogan: A home online for those without one.
+  description: We Are Visible is a peer network for the homeless community to help each other through social media and online peer-to-peer support. Invisible Founder Mark Horvath had wanted to create such a network for over four years, but it wasn’t until Hack to End Homelessness that all of the elements came together to get the project started.
+  live-link: http://wav.dotcreate.co/
+  live-link-text: See it live!
+
+-
+  id: cmdp
+  team-name: SAC-ky Hackers
+  sponsors:
+    - Sanctuary Art Center
+  slogan: Spreading social change through art all over the interwebs
+  team-members:
+    - Troy Carter (Executive Director of Sanctuary Art Center)
+    - Lance Lobuzzetta (Lead Designer and Print Instructor at Sanctuary Art Center)
+    - Nazar Trilisky (Software Development Engineer at F5)
+    - Dan Ojalvo (Software Engineer at F5)
+  description: Creating an e-commerce website to sell art and apparel. CMDPRINT.com is now an online store selling apparel by youth designers from Sanctuary Screenprinting and partner business Efflux Creations. The proceeds from online sales will go to benefit the ongoing efforts of the Sanctuary Art Center's employment internship program and the CMD+P retail/gallery space located in Pioneer Square at 201 Yesler Way Suite 200.
+  live-link: http://cmdprint.com/
+  live-link-text: See it live!
+
+-
+  id: we-count
+  team-name: We Count
+  sponsors:
+    - Seattle University
+    - Union Gospel Mission
+  slogan: No need forgotten.
+  team-members:
+    - Graham Pruss (Seattle University)
+    - Jeff Lilley (Seattle’s Union Gospel Mission)
+    - Alexcia DeVasquez (designer)
+    - Chris Claiborne (Code Fellows)
+    - Katie Pyontek (Avvo)
+    - Rex St. John (Mashery)
+    - Nevan Wichers (Seattle University student)
+  description: We don’t believe needs should be forgotten – we developed We Count to keep to track of the needs of people living on the street. Service volunteers change daily and organizations need a consistent process to organize work and provision. We Count offers the ability to document, track and manage provision towards the specific needs of individuals, collected during street outreach. We Count provides a platform for multiple service agencies to document their work and empowers new volunteers to become immediate assets.
+
+-
+  id: cre
+  team-name: Community Resource Exchange
+  sponsors:
+    - United Way of King County
+  slogan: Putting data to work
+  team-members:
+    - Lauren McGowan (United way of King County)
+    - Cesar Romero (Software Development Engineer at Amazon.com)
+    - Maryclare Griffin (PhD Student in Statistics/University of Washington)
+  description: On April 29 more than 600 volunteers and nearly 100 service providers came together at CenturyLink Field’s East Hall to help 1,500 people experiencing homelessness access resources. 850 of our guests completed intake forms. Our team analyzed the data from the event.
+
+-
+  id: ncso
+  team-name: No Child Sleeps Outside
+  sponsors:
+    - United Way of King County
+    - Church Council of Greater Seattle
+    - Seattle University School of Theology & Ministry
+  slogan: Harnessing the collective power of the faith community to help end homelessness.
+  team-members:
+    - Lauren McGowan, United way of King County
+    - Lisa Gustaveson, Seattle University School of Theology
+    - Seth Vincent
+  description: Tonight we will have too many kids without a safe place to rest their head, do their homework, eat a hot meal, or call home.  Homelessness is a crisis for these families and is unacceptable in a community like ours. Our shelters are full, poverty is growing, and affordable housing is scarce. While we can’t solve all of these problems tonight – we believe we can and must take action to make sure no child sleeps on the streets of King County. That’s why Church Council of Greater Seattle, Seattle University School of Theology and Ministry and United Way of King County have come together to support the No Child Sleeps Outside in King County initiative.
+  live-link: http://www.nochildsleepsoutside.com
+  live-link-text: See it live!
+
+-
+  id: youthcare
+  team-name: YouthCare Data Analysis Project
+  sponsors:
+    - YouthCare
+  team-members:
+    - Liz Trautman (YouthCare)
+    - Bhushan Mehendale (Microsoft)
+    - Christopher Lish (Amazon)
+    - Danny Pham (Saltbox)
+    - Maryclare Griffin (University of Washington)
+    - Viral Mehta (​Microsoft)
+  description: "YouthCare's James W. Ray Orion Center offers a wealth of services to Seattle's homeless young people, including low-barrier services like meals and drop-in hours, during which young people ages 13-22 can access basic needs and connect with our staff to talk about goals and connecting to deeper services like case management, shelter, housing, education, and employment training. We collect basic information about who is coming into the building for services, which services they are accessing, and how often the access the services. But we aren't able to analyze the data in the format it's collected in. This project had two goals: to develop macros allowing us to analyze the current spreadsheet data, and to develop a new way to collect data that made future analysis easier."
+
 
 

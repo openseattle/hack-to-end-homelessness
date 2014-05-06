@@ -3,10 +3,12 @@ layout: default
 ---
 
 {% for project in site.data.projects %}
-<div id="project-{{ project.team-name }}" class="project">
+<div id="project-{{ project.id }}" class="project">
   <div class="team-name">{{ project.team-name }}</div>
-  <div class="sponsor">{{ project.sponsor }}</div>
-  <img src="/img/projects/{{ project.team-name }}.jpg" />
+  {% for sponsor in project.sponsors %}
+  <div class="sponsor">{{ sponsor }}</div>
+  {% endfor %}
+  <img class="screenshot" src="/img/projects/{{ project.id }}.jpg" />
   <ul class="team-members">
     {% for member in project.team-members %}
     <li>{{ member }}</li>
@@ -15,7 +17,7 @@ layout: default
   <div class="description">{{ project.description }}</div>
   <a class="live-link" href="{{ project.live-link }}">{{ project.live-link-text }}</a>
   <a class="repo-link" href="{{ project.repo-link }}">{{ project.repo-link-text }}</a>
-  <a class="presentation-link" href="/presentations/{{ project.team-name }}.pdf">Slides</a>
+  <a class="presentation-link" href="/presentations/{{ project.id }}.pdf">Slides</a>
   <hr />
 </div>
 {% endfor %}

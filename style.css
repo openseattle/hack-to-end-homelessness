@@ -197,6 +197,13 @@ ul.events li {
   margin-bottom: 15px;
 }
 
+.project .screenshot {
+  max-height: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  border: solid;
+}
 
 /*
 * form
