@@ -5,7 +5,7 @@ published: true
 layout: post
 ---
 
-Hey everyone! We hope you noticed our new <a href="http://www.hacktoendhomelessness.com/projects/">"Completed Projects" tab</a>, which features your slide decks and all your names. We want to make sure all of you get credit for the amazing work you did this weekend. <p>
+Hey everyone! We hope you noticed our new <a href="http://www.hacktoendhomelessness.com/projects/">"Completed Projects"</a> tab, which features your slide decks and all your names. We want to make sure all of you get credit for the amazing work you did this weekend. <p>
 
 On that note, we're adding to our local media coverage with comprehensive reports of our own. Catherine Hinrichen from Seattle University just posted a Storify roundup of our finale from Sunday, which you will find <a href="https://storify.com/hinrichc/hack-to-end-homelessness-finale-may-4-2014-seattle">here</a>. Our friends at YWCA Firesteel also made <a href="https://www.youtube.com/watch?v=x91JRh44-SY">this cool video</a> with Mark Horvath, where he talks about Seattle (and starts talking about us at about 3:15). It's no coincidence the solutions to homelessness are being discovered here!<p>
 
