@@ -11,9 +11,9 @@ layout: default
   <a href="{% if project.live-link %}{{ project.live-link }}{% else %}/presentations/{{ project.id }}.pdf{% endif %}"><img class="screenshot" src="/img/projects/{{ project.id }}.jpg" /></a>
   <div class="links">
     <a class="live-link" href="{{ project.live-link }}">{{ project.live-link-text }}</a>
-    <a class="repo-link" href="{{ project.repo-link }}">{{ project.repo-link-text }}</a>
     <a class="presentation-link" href="/presentations/{{ project.id }}.pdf">Slides</a>
-  </div>
+    <a class="repo-link" href="{{ project.repo-link }}">{{ project.repo-link-text }}</a>
+</div>
   <ul class="team-members">
     {% for member in project.team-members %}
     <li>{{ member }}</li>

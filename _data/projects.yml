@@ -39,6 +39,8 @@
   description: "The Maptastics collaborated to support four different non-profit organizations. All four partners needed help to extract stories from available data and tell those stories to legislators, media, and the community. This team gathered data and development professionals to churn through available data sources, creating a series of maps that show where people have the hardest time finding affordable housing. The sponsors will use these visualizations to advocate for affordable housing with legislators and educate the general public."
   live-link: http://maptastics.herokuapp.com/
   live-link-text: See it live!
+  repo-link: https://github.com/loudest/graph-api
+  repo-link-text: GitHub
 
 -
   id: haystack
@@ -54,6 +56,8 @@
   description: "The Haystack worked with Committee to End Homelessness--King County to visualize how Seattle stacks up against other metro areas in the United States. They analyzed data from 25 major cities and developed a dynamic, web-based site that summarizes data over 7 years and across multiple data points. This allows users to compare cities “apples to apples” using per-capita data, showing each community’s need and the relative scale of its response."
   live-link: http://haystack-hack2end.herokuapp.com/
   live-link-text: See it live!
+  repo-link: https://github.com/CrossTheStreams/hack2end
+  repo-link-text: GitHub
 
 -
   id: we-are-visible
